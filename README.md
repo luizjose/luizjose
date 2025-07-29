@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/dev_semnet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=red&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/euluizjose/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B0&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
